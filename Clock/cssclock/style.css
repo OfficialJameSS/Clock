@@ -1,0 +1,39 @@
+body {
+	background-color: lightblue;
+}
+
+h1 {
+	font-size: 84px;
+	font-family: 'Poppins', sans-serif;
+	color: white;
+	text-transform: uppercase;
+}
+
+li {
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+	font-family: 'Roboto', sans-serif;
+    font-size: 48px;
+    color: yellow;
+}
+
+a:hover {
+	cursor: pointer;
+    color: gold;
+}
+
+p {
+	padding-top: 120px;
+	font-family: sans-serif;
+	font-size: 48px;
+    color: orange;
+}
+
+p:hover {
+	color: goldenrod;
+	cursor: pointer;
+	font-size: 60px;
+}
